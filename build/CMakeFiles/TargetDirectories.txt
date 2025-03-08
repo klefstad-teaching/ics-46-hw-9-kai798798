@@ -1,0 +1,5 @@
+/home/tingkc1/ICS46/ics-46-hw-9-kai798798/build/CMakeFiles/dijkstra_main.dir
+/home/tingkc1/ICS46/ics-46-hw-9-kai798798/build/CMakeFiles/ladder_main.dir
+/home/tingkc1/ICS46/ics-46-hw-9-kai798798/build/CMakeFiles/student_gtests.dir
+/home/tingkc1/ICS46/ics-46-hw-9-kai798798/build/CMakeFiles/edit_cache.dir
+/home/tingkc1/ICS46/ics-46-hw-9-kai798798/build/CMakeFiles/rebuild_cache.dir
